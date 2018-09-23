@@ -16,8 +16,8 @@
       "url" : "http://calliope-edu.github.io/playground/playground.zip",
       "publishedDate" : "2018-09-18T16:10:00+01:00",
       "lastUpdatedDate" : "2018-09-18T18:00:00+01:00",
-      "thumbnailURL" : "https://calliope.cc/content/ble/CalliopeminiSwift.png",
-      "bannerImageURL" : "https://calliope.cc/content/ble/CalliopeminiSwift_banner.png",
+      "thumbnailURL" : "CalliopeminiSwift.png",
+      "bannerImageURL" : "CalliopeminiSwift_banner.png",
       "additionalInformation" : [
       {
       "name" : "Made for",
@@ -25,7 +25,7 @@
       }
       ],
       "previewImageURLs" : [
-      "https://calliope.cc/content/ble/Calliopeminipreview.png"
+      "Calliopeminipreview.png"
       ]
 	}
 	]
