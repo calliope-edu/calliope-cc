@@ -11,7 +11,7 @@
       "detailSubtitle" : "Learn how to control the Calliope mini using Swift and build your own physical interaction projects.",
       "description" : "Connect your Calliope mini via Bluetooth and start sending data to it by using the Swift programming language.",
       "difficultyLevel" : "beginner",
-      "contentIdentifier" : "io.github.calliope-edu.mini",
+      "contentIdentifier" : "io.github.calliope-edu.playground",
       "contentVersion" : "1.0",
       "url" : "https://calliope-edu.github.io/playground/CalliopePlaybook.playgroundbook.zip",
       "publishedDate" : "2018-09-18T16:10:00+01:00",
