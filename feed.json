@@ -1,7 +1,7 @@
 {
 	"title": "Calliope mini",
 	"publisherName": "Calliope gGmbH",
-	"feedIdentifier": "io.github.calliope-edu.playground",
+	"feedIdentifier": "io.github.calliope-edu",
 	"contactURL": "https://calliope.cc/en/impressum",
 	"formatVersion": "1.0",
 	"documents": [
