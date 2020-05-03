@@ -7,9 +7,9 @@
 	"documents": [
 	    {
           "title" : "Calliope mini",
-          "overviewSubtitle" : "Calliope mini und Swift kennen lernen",
+          "overviewSubtitle" : "Einführung in den Calliope mini und Swift",
           "detailSubtitle" : "Lerne wie du den Calliope mini mit Swift steuerst und erstelle deine eigenen interaktiven Projekte.",
-          "description" : "Verbinde deinen Calliope mini mit Bluetooth und beginne ihn mit der Programmiersprache Swift zu programmieren.",
+          "description" : "Mit diesem Swift Playground lernst du ganz einfach den Calliope mini kennen. Die einzelnen Bestandteile des Calliope mini werden vorgestellt. In kleinen Schritten verstehst du die Grundlagen des Programmierens und steuerst LEDs, Pins, Sensoren und Sounds. Mit dem Swift Playground baust du eigene Projekte und Prototypen für deinen Calliope mini.\nWeitere Ideen, Anleitungen, Tipps und Tricks stehen in der kostenlosen Handreichung im Book Store zur Verfügung - Calliope mini Swift Playground.’\n\n  - Ab 8 Jahren\n  - Offline, mobil nutzbar\n  - Calliope mini wird empfohlen\n  - Keine Programmiervorkenntnisse notwendig\n  - Schnelle, kabellose Übertragung des Codes zum Calliope mini\n  - Entwicklung digital gesteuerter, physischer Prototypen\n  - Leicht die Sensoren des Calliope mini abfragen und nutzen",
           "difficultyLevel" : "beginner",
           "attributes" : [
           	"codingBasics", 
@@ -28,6 +28,18 @@
           {
           	"name" : "Für",
           	"value" : "Erfinder!"
+          },{
+               "name" : "Herausgeber",
+               "value" : "Calliope gGmbH"
+          },{
+               "name" : "Version",
+               "value" : "2.3"
+          },{
+               "name" : "Veröffentlicht",
+               "value" : "12. Mai 2020"
+          },{
+               "name" : "Sprachen",
+               "value" : "Deutsch, Englisch"
           }
           ],
           "previewImageURLs" : [
@@ -37,10 +49,10 @@
           ]
 	    },
 	    {
-          "title" : "Calliope mini leere Seite",
-          "overviewSubtitle" : "Entfalte maximale Kreativität mit dem Calliope mini auf diesem unbeschriebenen Blatt.",
+          "title" : "Calliope mini Vorlage",
+          "overviewSubtitle" : "Freie Projekte mit dem Calliope mini und Swift umsetzen.",
           "detailSubtitle" : "Nutze das Wissen aus dem ersten Calliope mini Playground und programmiere alles, was du dir vorstellen kannst.",
-          "description" : "Verbinde deinen Calliope mini mit Bluetooth und beginne ihn mit der Programmiersprache Swift zu programmieren.",
+          "description" : "Mit diesem Swift Playground kannst du deinen Calliope mini programmieren. Nutze die Bestandteile vom Calliope mini – LEDs, Pins, Sensoren und Sounds können angesteuert werden. Mit dem Swift Playground kannst du freie, eigene Projekte und Prototypen für deinen Calliope mini erstellen.\nWeitere Ideen, Anleitungen, Tipps und Tricks stehen in der kostenlosen Handreichung im Book Store zur Verfügung - Calliope mini Swift Playground.\n\n  - Ab 8 Jahre\n  Offline, mobil nutzbar\n  Ein Calliope mini ist für die Nutzung notwendig \n  Erste Programmierkenntnisse mit dem Calliope mini und Swift sollten vorhanden sein\n  Schnelle, kabellose Übertragung des Codes zum Calliope mini\n  Entwicklung digital gesteuerter, physischer Prototypen\n  Leicht die Sensoren des Calliope mini abfragen und nutzen",
           "difficultyLevel" : "intermediate",
           "attributes" : [
           	"codingBasics", 
@@ -55,8 +67,20 @@
           "bannerImageURL" : "calliope_swift_playground_title_singlePage_banner.png",
           "additionalInformation" : [
           {
-          	"name" : "Für",
-          	"value" : "Erfinder!"
+               "name" : "Für",
+               "value" : "Erfinder!"
+          },{
+               "name" : "Herausgeber",
+               "value" : "Calliope gGmbH"
+          },{
+               "name" : "Version",
+               "value" : "2.3"
+          },{
+               "name" : "Veröffentlicht",
+               "value" : "12. Mai 2020"
+          },{
+               "name" : "Sprachen",
+               "value" : "Deutsch, Englisch"
           }
           ],
           "previewImageURLs" : [
