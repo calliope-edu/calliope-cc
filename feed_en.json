@@ -43,8 +43,8 @@
           }
           ],
           "previewImageURLs" : [
-               "preview_en/EN_calliope_mini_a.png"
-               "preview_en/EN_calliope_mini_b.png"
+               "preview_en/EN_calliope_mini_a.png",
+               "preview_en/EN_calliope_mini_b.png",
                "preview_en/EN_calliope_mini_c.png"
           ]
 	    },
@@ -85,7 +85,7 @@
           ],
           "previewImageURLs" : [
           	"preview_en/EN_calliope_mini_single_a.png",
-               "preview_en/EN_calliope_mini_single_b.png",
+               "preview_en/EN_calliope_mini_single_b.png"
           ]
 	    }
 	]

@@ -43,8 +43,8 @@
           }
           ],
           "previewImageURLs" : [
-          	"preview_de/calliope_mini_a.png"
-               "preview_de/calliope_mini_b.png"
+          	"preview_de/calliope_mini_a.png",
+               "preview_de/calliope_mini_b.png",
                "preview_de/calliope_mini_c.png"
           ]
 	    },
@@ -52,7 +52,7 @@
           "title" : "Calliope mini Vorlage",
           "overviewSubtitle" : "Freie Projekte mit dem Calliope mini und Swift umsetzen.",
           "detailSubtitle" : "Nutze das Wissen aus dem ersten Calliope mini Playground und programmiere alles, was du dir vorstellen kannst.",
-          "description" : "Mit diesem Swift Playground kannst du deinen Calliope mini programmieren. Nutze die Bestandteile vom Calliope mini – LEDs, Pins, Sensoren und Sounds können angesteuert werden. Mit dem Swift Playground kannst du freie, eigene Projekte und Prototypen für deinen Calliope mini erstellen.\nWeitere Ideen, Anleitungen, Tipps und Tricks stehen in der kostenlosen Handreichung im Book Store zur Verfügung - Calliope mini Swift Playground.\n\n  - Ab 8 Jahre\n  Offline, mobil nutzbar\n  Ein Calliope mini ist für die Nutzung notwendig \n  Erste Programmierkenntnisse mit dem Calliope mini und Swift sollten vorhanden sein\n  Schnelle, kabellose Übertragung des Codes zum Calliope mini\n  Entwicklung digital gesteuerter, physischer Prototypen\n  Leicht die Sensoren des Calliope mini abfragen und nutzen",
+          "description" : "Mit diesem Swift Playground kannst du deinen Calliope mini programmieren. Nutze die Bestandteile vom Calliope mini – LEDs, Pins, Sensoren und Sounds können angesteuert werden. Mit dem Swift Playground kannst du freie, eigene Projekte und Prototypen für deinen Calliope mini erstellen.\nWeitere Ideen, Anleitungen, Tipps und Tricks stehen in der kostenlosen Handreichung im Book Store zur Verfügung - Calliope mini Swift Playground.\n\n  - Ab 8 Jahre\n  - Offline, mobil nutzbar\n  - Ein Calliope mini ist für die Nutzung notwendig \n  - Erste Programmierkenntnisse mit dem Calliope mini und Swift sollten vorhanden sein\n  - Schnelle, kabellose Übertragung des Codes zum Calliope mini\n  - Entwicklung digital gesteuerter, physischer Prototypen\n  - Leicht die Sensoren des Calliope mini abfragen und nutzen",
           "difficultyLevel" : "intermediate",
           "attributes" : [
           	"codingBasics", 
@@ -85,7 +85,7 @@
           ],
           "previewImageURLs" : [
                "preview_de/calliope_mini_single_a.png",
-               "preview_de/calliope_mini_single_b.png",
+               "preview_de/calliope_mini_single_b.png"
           ]
 	    }
 	]
