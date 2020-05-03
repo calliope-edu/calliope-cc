@@ -22,8 +22,8 @@
           "url" : "Calliope_mini.playgroundbook.zip",
           "publishedDate" : "2018-09-18T16:10:00+01:00",
           "lastUpdatedDate" : "2020-04-26T12:00:00+01:00",
-          "thumbnailURL" : "CalliopeminiSwift.png",
-          "bannerImageURL" : "CalliopeminiSwift_banner.png",
+          "thumbnailURL" : "calliope_swift_playground_title.png",
+          "bannerImageURL" : "calliope_swift_playground_title_banner.png",
           "additionalInformation" : [
           {
           	"name" : "Für",
@@ -31,7 +31,9 @@
           }
           ],
           "previewImageURLs" : [
-          	"Calliopeminipreview_de.png"
+          	"preview_de/calliope_mini_a.png"
+               "preview_de/calliope_mini_b.png"
+               "preview_de/calliope_mini_c.png"
           ]
 	    },
 	    {
@@ -49,8 +51,8 @@
           "url" : "Calliope_mini_blank_page.playgroundbook.zip",
           "publishedDate" : "2020-04-26T12:00:00+01:00",
           "lastUpdatedDate" : "2020-04-26T12:16:00+01:00",
-          "thumbnailURL" : "CalliopeminiSwift.png",
-          "bannerImageURL" : "CalliopeminiSwift_banner.png",
+          "thumbnailURL" : "calliope_swift_playground_title_singlePage.png",
+          "bannerImageURL" : "calliope_swift_playground_title_singlePage_banner.png",
           "additionalInformation" : [
           {
           	"name" : "Für",
@@ -58,7 +60,8 @@
           }
           ],
           "previewImageURLs" : [
-          	"Calliopeminiblankpagepreview_de.png"
+               "preview_de/calliope_mini_single_a.png",
+               "preview_de/calliope_mini_single_b.png",
           ]
 	    }
 	]
