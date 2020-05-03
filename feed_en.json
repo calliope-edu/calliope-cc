@@ -7,9 +7,9 @@
 	"documents": [
 	    {
           "title" : "Calliope mini",
-          "overviewSubtitle" : "Get started with the Calliope mini and Swift.",
+          "overviewSubtitle" : "Intro to Calliope mini and Swift",
           "detailSubtitle" : "Learn how to control the Calliope mini using Swift and build your own physical interaction projects.",
-          "description" : "Connect your Calliope mini via Bluetooth and start programming it by using the Swift programming language.",
+          "description" : "The Calliope mini offers children from primary school upwards a playful approach to the digital world. In small and simple steps, the students get to know the mini computer and experience their first successes in programming. With the Calliope mini Swift Playground you can build your own projects and prototypes for your Calliope mini.\nMore ideas, instructions, tips and tricks are available in the free Guide in the Book Store - Calliope mini Swift Playground.\n\n  - 8+\n  - Usable mobile and offline\n  - Calliope mini is recommended \n  - No previous programming skills necessary\n  - Fast, wireless transmission of the code to the Calliope mini\n  - Development of digitally controlled physical prototypes\n  - Easily interrogate and use Calliope mini sensors",
           "difficultyLevel" : "beginner",
           "attributes" : [
           	"codingBasics", 
@@ -26,8 +26,20 @@
           "bannerImageURL" : "calliope_swift_playground_title_banner.png",
           "additionalInformation" : [
           {
-          	"name" : "Made for",
-          	"value" : "inventors!"
+               "name" : "Made for",
+               "value" : "Inventors!"
+          },{
+               "name" : "Publisher",
+               "value" : "Calliope gGmbH"
+          },{
+               "name" : "Version",
+               "value" : "2.3"
+          },{
+               "name" : "Published",
+               "value" : "12. May 2020"
+          },{
+               "name" : "Languages",
+               "value" : "English, German"
           }
           ],
           "previewImageURLs" : [
@@ -37,10 +49,10 @@
           ]
 	    },
 	    {
-          "title" : "Calliope mini blank page",
-          "overviewSubtitle" : "Become creative in using your calliope on a blank canvas.",
+          "title" : "Calliope mini Blank",
+          "overviewSubtitle" : "Coding with the Calliope mini and Swift",
           "detailSubtitle" : "Use the knowledge you learned in the Calliope mini introductory playground and invent every imaginable program.",
-          "description" : "Connect your Calliope mini via Bluetooth and start programming it by using the Swift programming language.",
+          "description" : "With this Swift Playground you can program your Calliope mini. Use the components of the Calliope mini - LEDs, pins, sensors and sounds can be controlled. Get started and create projects and prototypes for your Calliope mini.\nMore ideas, instructions, tips and tricks are available in the free Guide in the Book Store - Calliope mini Swift Playground.\n\n  - 8+\n  - Usable mobile and offline\n  - Calliope mini is recommended \n  - Initial programming skills with the Calliope mini and Swift should be available\n  - Fast, wireless transmission of the code to the Calliope mini\n  - Development of digitally controlled physical prototypes\n  - Easily interrogate and use Calliope mini sensors",
           "difficultyLevel" : "intermediate",
           "attributes" : [
           	"codingBasics", 
@@ -55,8 +67,20 @@
           "bannerImageURL" : "calliope_swift_playground_title_singlePage_banner.png",
           "additionalInformation" : [
           {
-          	"name" : "Made for",
-          	"value" : "inventors!"
+               "name" : "Made for",
+               "value" : "Inventors!"
+          },{
+               "name" : "Publisher",
+               "value" : "Calliope gGmbH"
+          },{
+               "name" : "Version",
+               "value" : "2.3"
+          },{
+               "name" : "Published",
+               "value" : "12. May 2020"
+          },{
+               "name" : "Languages",
+               "value" : "English, German"
           }
           ],
           "previewImageURLs" : [
