@@ -1,0 +1,92 @@
+{
+	"formatVersion": "1.2",
+	"title": "Calliope mini",
+	"publisherName": "Calliope gGmbH",
+	"feedIdentifier": "io.github.calliope-edu",
+	"contactURL": "https://calliope.cc/en/impressum",
+	"documents": [
+	    {
+          "title" : "Calliope mini",
+          "overviewSubtitle" : "Intro to Calliope mini and Swift",
+          "detailSubtitle" : "Learn how to control the Calliope mini using Swift and build your own physical interaction projects.",
+          "description" : "The Calliope mini offers children from primary school upwards a playful approach to the digital world. In small and simple steps, the students get to know the mini computer and experience their first successes in programming. With the Calliope mini Swift Playground you can build your own projects and prototypes for your Calliope mini.\nMore ideas, instructions, tips and tricks are available in the free Guide in the Book Store - Calliope mini Swift Playground.\n\n  - 8+\n  - Usable mobile and offline\n  - Calliope mini is recommended \n  - No previous programming skills necessary\n  - Fast, wireless transmission of the code to the Calliope mini\n  - Development of digitally controlled physical prototypes\n  - Easily interrogate and use Calliope mini sensors",
+          "difficultyLevel" : "beginner",
+          "attributes" : [
+          	"codingBasics", 
+          	"curriculumBased", 
+          	"usesAccessory"
+          ],
+          "authorChosenUpNext" : "io.github.calliope-edu.playground.blank",
+          "contentIdentifier" : "io.github.calliope-edu.playground.mini",
+          "contentVersion" : "2.3",
+          "url" : "Calliope_mini.playgroundbook.zip",
+          "publishedDate" : "2018-09-18T16:10:00+01:00",
+          "lastUpdatedDate" : "2020-04-26T12:00:00+01:00",
+          "thumbnailURL" : "calliope_swift_playground_title.png",
+          "bannerImageURL" : "calliope_swift_playground_title_banner.png",
+          "additionalInformation" : [
+          {
+               "name" : "Made for",
+               "value" : "Inventors!"
+          },{
+               "name" : "Publisher",
+               "value" : "Calliope gGmbH"
+          },{
+               "name" : "Version",
+               "value" : "2.3"
+          },{
+               "name" : "Published",
+               "value" : "12. May 2020"
+          },{
+               "name" : "Languages",
+               "value" : "English, German"
+          }
+          ],
+          "previewImageURLs" : [
+               "preview_en/EN_calliope_mini_a.png",
+               "preview_en/EN_calliope_mini_b.png",
+               "preview_en/EN_calliope_mini_c.png"
+          ]
+	    },
+	    {
+          "title" : "Calliope mini Blank",
+          "overviewSubtitle" : "Coding with the Calliope mini and Swift",
+          "detailSubtitle" : "Use the knowledge you learned in the Calliope mini introductory playground and invent every imaginable program.",
+          "description" : "With this Swift Playground you can program your Calliope mini. Use the components of the Calliope mini - LEDs, pins, sensors and sounds can be controlled. Get started and create projects and prototypes for your Calliope mini.\nMore ideas, instructions, tips and tricks are available in the free Guide in the Book Store - Calliope mini Swift Playground.\n\n  - 8+\n  - Usable mobile and offline\n  - Calliope mini is recommended \n  - Initial programming skills with the Calliope mini and Swift should be available\n  - Fast, wireless transmission of the code to the Calliope mini\n  - Development of digitally controlled physical prototypes\n  - Easily interrogate and use Calliope mini sensors",
+          "difficultyLevel" : "intermediate",
+          "attributes" : [
+          	"codingBasics", 
+          	"startingPoint",
+          	"usesAccessory"],
+          "contentIdentifier" : "io.github.calliope-edu.playground.blank",
+          "contentVersion" : "2.3",
+          "url" : "Calliope_mini_blank_page.playgroundbook.zip",
+          "publishedDate" : "2020-04-26T12:00:00+01:00",
+          "lastUpdatedDate" : "2020-04-26T12:16:00+01:00",
+          "thumbnailURL" : "calliope_swift_playground_title_singlePage.png",
+          "bannerImageURL" : "calliope_swift_playground_title_singlePage_banner.png",
+          "additionalInformation" : [
+          {
+               "name" : "Made for",
+               "value" : "Inventors!"
+          },{
+               "name" : "Publisher",
+               "value" : "Calliope gGmbH"
+          },{
+               "name" : "Version",
+               "value" : "2.3"
+          },{
+               "name" : "Published",
+               "value" : "12. May 2020"
+          },{
+               "name" : "Languages",
+               "value" : "English, German"
+          }
+          ],
+          "previewImageURLs" : [
+          	"preview_en/EN_calliope_mini_single_a.png",
+               "preview_en/EN_calliope_mini_single_b.png"
+          ]
+	    }
+	]
+}
